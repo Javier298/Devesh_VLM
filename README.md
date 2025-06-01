@@ -97,6 +97,6 @@ Integrate multi-image support
 Explore multi-modal attention visualizations
 
 ## 🧑‍🔬 Acknowledgments
-This project was developed during my internship at ICoM, RWTH Aachen under the supervision of [Prof./Dr. Name if applicable].
+This project was developed during my internship at ICoM, RWTH Aachen.
 
 
