@@ -62,21 +62,17 @@ Edit
 - Possible Cause: Corrosion due to water seepage  
 📄 Generated PDF sample → see /examples/sample_output.pdf
 
-## ⚙️ How to Run (Inference Only)
-Clone the repo
+### ⚙️ How to Run (Context)
 
-Install dependencies:
+Due to infrastructure limitations, full inference execution is not available at this time.
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run inference:
+However, the repository includes:
+- `run_inference.py`: the original inference script used during the internship
+- `generate_report.py`: PDF report generator based on model outputs
+- Model weights used during evaluation (currently not publicly hosted due to size)
 
-bash
-Copy
-Edit
-python run_inference.py --image path/to/image.jpg
+**Note:** This project was developed on a multi-GPU cluster, and certain dependencies (e.g., FlashAttention 2) may not run on standard local hardware without modification.
+
 ## 📁 Folder Structure
 kotlin
 Copy
