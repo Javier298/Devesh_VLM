@@ -45,17 +45,17 @@ Damage class mapping is defined in label_map.json
 
 ## 🧪 Example Output
 🖼️ Input Image:
-<img src="examples/sample_input.jpg" width="400"/>
+<img src="examples/Report Example 03.jpg" width="400"/>
 
 📝 Generated Report:
 
 
-- Damage Type: Exposed rebars, Cracks  
-- Impact: Medium  
-- Area: 23.5 sq.cm  
-- Direction: Horizontal  
-- Possible Cause: Corrosion due to water seepage  
-📄 Generated PDF sample → see /examples/sample_output.pdf
+- Damage Type: Graffiti, Weathering, PEquipment (Protective Equipment)  
+- Impact: The graffiti and weathering have caused damage to the concrete wall, including the railway track, which is a piece of equipment.
+- Size: The damage is estimated to be around 10 cm² for the graffiti and 20 cm² for the weathering. 
+- Direction: Horizontal (graffiti) and vertical (weathering).  
+- Possible Reasons: The graffiti and weathering have exposed the underlying concrete, leading to damage to the railway track.  
+📄 Generated PDF sample → see /sample_inspection_reports/Example Report 03.pdf
 
 ### ⚙️ How to Run (Context)
 
