@@ -69,11 +69,11 @@ However, the repository includes:
 **Note:** This project was developed on a NVIDIA RTX A4000 GPU, and certain dependencies (e.g., FlashAttention 2) may not run on standard local hardware without modification.
 
 ## 📁 Folder Structure
-Qwen2VL_BridgeInspection/
-├── data/
-├── training/
-├── inference/
-├── report_generation/
+Devesh_VLM/
+├── Notebooks/
+├── annotation_files/
+├── python_files/
+├── sample_inspection_reports/
 ├── examples/
 ├── README.md
 └── requirements.txt
