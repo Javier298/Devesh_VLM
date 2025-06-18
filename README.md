@@ -45,6 +45,7 @@ Damage class mapping is defined in label_map.json
 
 ## 🧪 Example Output
 🖼️ Input Image:
+
 <img src="examples/Report Example 03.jpg" width="400"/>
 
 📝 Generated Report:
