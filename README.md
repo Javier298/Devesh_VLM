@@ -78,12 +78,6 @@ Devesh_VLM/
 ├── examples/
 ├── README.md
 └── requirements.txt
-## 📌 Future Work
-Add GUI for uploading images and generating report
-
-Integrate multi-image support
-
-Explore multi-modal attention visualizations
 
 ## 🧑‍🔬 Acknowledgments
 This project was developed during my internship at ICoM, RWTH Aachen.
