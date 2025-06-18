@@ -54,9 +54,7 @@ Damage class mapping is defined in label_map.json
 
 📝 Generated Report:
 
-diff
-Copy
-Edit
+
 - Damage Type: Exposed rebars, Cracks  
 - Impact: Medium  
 - Area: 23.5 sq.cm  
