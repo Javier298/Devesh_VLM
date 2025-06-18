@@ -39,9 +39,6 @@ Reporting	ReportLab
 Evaluation	Scikit-learn
 
 ## 📊 Dataset Structure (Example)
-json
-Copy
-Edit
 {
   "id": 32,
   "image": "/path/to/image.jpg",
