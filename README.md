@@ -66,12 +66,9 @@ However, the repository includes:
 - `generate_report.py`: PDF report generator based on model outputs
 - Model weights used during evaluation (currently not publicly hosted due to size)
 
-**Note:** This project was developed on a multi-GPU cluster, and certain dependencies (e.g., FlashAttention 2) may not run on standard local hardware without modification.
+**Note:** This project was developed on a NVIDIA RTX A4000 GPU, and certain dependencies (e.g., FlashAttention 2) may not run on standard local hardware without modification.
 
 ## 📁 Folder Structure
-kotlin
-Copy
-Edit
 Qwen2VL_BridgeInspection/
 ├── data/
 ├── training/
