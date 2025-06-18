@@ -3,11 +3,6 @@ In this repo, I have fine-tuned a VLM(Qwen2-VL-2B-Instruct) on bridge-damage dat
 
 Here is the demo video: https://drive.google.com/drive/folders/1BurEeqaMoMcYjXjS-sg4o27Rbbr658XX?usp=sharing
 
-# Devesh_VLM
-In this repo, I have fine-tuned a VLM(Qwen2-VL-2B-Instruct) on bridge-damage datasets, and then inferenced it, which generates inspection reports. 
-
-Here is the demo video: https://drive.google.com/drive/folders/1BurEeqaMoMcYjXjS-sg4o27Rbbr658XX?usp=sharing
-
 # 🧠 Development of Vision-Language Model for the intelligent inspection of existing bridge structures
 A fine-tuned Qwen-2VL-2B model for automated bridge damage classification and report generation, developed during my research internship at ICoM, RWTH Aachen.
 
