@@ -5,12 +5,13 @@
 
 2. dataset: BInet
 
-	The evaluation metrics for the BInet dataset are:
+	The evaluation metrics for the BiNet dataset are:
  	{'precision': 0.8575393925222065, 'recall': 0.8548850574712644, 'f1': 0.832947786190199} (used average='weighted')
 
 3. dataset: dacl
 
-	The evaluation metrics for the dacl dataset are: 
+	The evaluation metrics for the dacl-10k dataset are: 
 
  	{'precision': 0.5184761904761905, 'recall': 0.43648514448514447, 'f1': 0.4412912329835407} (used average='samples')
+
 
