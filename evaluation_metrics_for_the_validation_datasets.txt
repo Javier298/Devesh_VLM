@@ -1,6 +1,6 @@
 1. dataset: 2601506
 	
-	The evaluation metrics for the Multi-Classifier for Reinforced Concrete Bridge Defects dataset dataset (for all the 726 images in the val_ds) are:
+	The evaluation metrics for the Multi-Classifier for Reinforced Concrete Bridge Defects dataset (for all the 726 images in the val_ds) are:
  	{'precision': 0.4748926421773563, 'recall': 0.4201101928374656, 'f1': 0.4156546767311442} (used average='weighted')
 
 2. dataset: BInet
@@ -13,3 +13,4 @@
 	The evaluation metrics for the dacl dataset are: 
 
  	{'precision': 0.5184761904761905, 'recall': 0.43648514448514447, 'f1': 0.4412912329835407} (used average='samples')
+
